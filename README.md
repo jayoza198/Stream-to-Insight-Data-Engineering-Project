@@ -13,7 +13,8 @@ This project serves as a comprehensive guide to building an end-to-end data engi
 
 ## System Architecture
 
-![System Architecture](https://github.com/airscholar/e2e-data-engineering/blob/main/Data%20engineering%20architecture.png)
+![System-Architecture](https://github.com/jayoza198/Stream-to-Insight-Data-Engineering-Project/assets/71382456/c0d75709-529f-4003-8b9c-0a8b0218502e)
+
 
 The project is designed with the following components:
 
@@ -48,21 +49,10 @@ The project is designed with the following components:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/airscholar/e2e-data-engineering.git
+    gh repo clone jayoza198/Stream-to-Insight-Data-Engineering-Project
     ```
 
-2. Navigate to the project directory:
-    ```bash
-    cd e2e-data-engineering
-    ```
-
-3. Run Docker Compose to spin up the services:
+2. Run Docker Compose to spin up the services:
     ```bash
     docker-compose up
     ```
-
-For more detailed instructions, please check out the video tutorial linked below.
-
-## Watch the Video Tutorial
-
-For a complete walkthrough and practical demonstration, check out our [YouTube Video Tutorial](https://www.youtube.com/watch?v=GqAcTrqKcrY).
